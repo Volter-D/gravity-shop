@@ -1,0 +1,97 @@
+/* General Styles */
+
+
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.btn-primary {
+    background-color: #FDD81C;
+    border-color: #FDD81C;
+}
+
+.btn-primary:hover {
+    background-color: #FDD81C;
+    border-color: #FDD81C;
+}
+
+/* Offcanvas Styles */
+.offcanvas-header {
+    background-color: #007bff;
+    color: white;
+}
+
+.offcanvas-body {
+    background-color: #f8f9fa;
+}
+
+.list-group-item {
+    background-color: #fff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+}
+.textor{
+    color: white;
+    
+}
+.textob{
+    color: white;
+}
+.textob{
+    color: white;
+}
+.imgr1{
+    width: 255px;
+    height: 240px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+
+.imgr2{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+.imgr3{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+
+.imgr4{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+.imgm1{
+    width: 2000px;
+    height: 100px;
+    
+}

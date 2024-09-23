@@ -1,0 +1,503 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+
+
+
+.div1{
+    width: 2589px;
+    height: 320px;
+    background-color: rgb(242,242,242);
+    margin-right: auto;
+    margin-left: auto;
+}  
+ /*.logo{
+    margin-left: 545px;
+}*/
+.conte1{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+
+}
+.logo__descripcion {
+    color: #797979;
+    font-size: 1.1rem;
+    
+    font-weight: 5000;
+    text-align: center;
+    padding-top: 0.2rem;
+    display: block;
+    
+}
+
+.texto{
+    color: white;
+    margin-left: 35%; 
+}
+.mercado{
+    width: 1389px;
+    height: 35px;
+    background-color: rgb(242,242,242);
+    margin-right: auto;
+    margin-left: auto;
+}
+.text{
+    font-size: 22px;
+    
+    margin-left: 39%;
+}
+
+.texto1{
+    color: white;
+    margin-left: 3%; 
+    font-size: 22px;
+}
+.t{
+    color: white;
+    margin-left: 3%; 
+    
+}
+.zoom{
+    width: 400px;
+    height: 250px;
+    overflow: hidden;
+    margin: 20px;
+}
+.img{
+    width: 90%;
+    height: 100%;
+    transition: 0.5s;
+    object-fit: cover;
+}
+.img:hover{
+    transform: scale(1.5);
+    opacity: 0.5;
+}
+.textor{
+    color: white;
+    margin-left: 10%; 
+}
+
+.ropa1{
+    width: 310px;
+    height: 450px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 11%;
+    border-style: solid;
+    border-color: white;
+    
+}
+.contenr{
+    display: flex;
+   
+}
+.imgr1{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+.btnr1{
+    width: 230px;
+    height: 42px;
+    margin-top: 35%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.ropa2{
+    width: 310px;
+    height: 475px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgr2{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+.btnr2{
+    width: 230px;
+    height: 42px;
+    margin-top: 35%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.ropa3{
+    width: 310px;
+    height: 590px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgr3{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+.btnr3{
+    width: 230px;
+    height: 42px;
+    margin-top: 25%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.ropa4{
+    width: 310px;
+    height: 520px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgr4{
+    width: 255px;
+    height: 270px;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+}
+.btnr4{
+    width: 230px;
+    height: 42px;
+    margin-top: 35%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+
+.contenc{
+    display: flex;
+   
+}
+
+.cost1{
+    width: 330px;
+    height: 420px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 11%;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgc1{
+    width: 255px;
+    height: 210px;
+    margin-top: 9%;
+    margin-left: 10%;
+    
+}
+.btnc1{
+    width: 230px;
+    height: 42px;
+    margin-top: 30%;
+    margin-left: 13%;
+    background-color: yellow;
+}
+
+.cost2{
+    width: 330px;
+    height: 480px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgc2{
+    width: 255px;
+    height: 250px;
+    margin-top: 9%;
+    margin-left: 11%;
+    
+}
+.btnc2{
+    width: 230px;
+    height: 42px;
+    margin-top: 35%;
+    margin-left: 13%;
+    background-color: yellow;
+}
+
+.cost3{
+    width: 330px;
+    height: 320px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgc3{
+    width: 255px;
+    height: 150px;
+    margin-top: 9%;
+    margin-left: 11%;
+    
+}
+.btnc3{
+    width: 230px;
+    height: 42px;
+    margin-top: 20%;
+    margin-left: 13%;
+    background-color: yellow;
+}
+
+.tecno1{
+    width: 310px;
+    height: 450px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 11%;
+    border-style: solid;
+    border-color: white;
+    
+}
+.content{
+    display: flex;
+   
+}
+.imgt1{
+    width: 255px;
+    height: 240px;
+    margin-top: -5%;
+    margin-left: 8%;
+    
+    
+}
+
+.btnt1{
+    width: 230px;
+    height: 42px;
+    margin-top: 9%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.tecno2{
+    width: 310px;
+    height: 450px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgt2{
+    width: 255px;
+    height: 240px;
+    margin-top: -5%;
+    margin-left: 8%;
+    
+}
+.btnt2{
+    width: 230px;
+    height: 42px;
+    margin-top: 9%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.tecno3{
+    width: 310px;
+    height: 450px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgt3{
+    width: 255px;
+    height: 240px;
+    margin-top: -5%;
+    margin-left: 8%;
+    
+}
+.btnt3{
+    width: 230px;
+    height: 42px;
+    margin-top: 9%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.tecno4{
+    width: 310px;
+    height: 450px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 0;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgt4{
+    width: 255px;
+    height: 240px;
+    margin-top: -5%;
+    margin-left: 8%;
+    
+}
+.btnt4{
+    width: 230px;
+    height: 42px;
+    margin-top: 9%;
+    margin-left: 12%;
+    background-color: yellow;
+}
+.ptv8{
+    color: white;
+    font-size: 22px;
+    margin-left: 35%;
+    margin-top: 5%;
+
+}
+.pt{
+    color: white;
+    font-size: 16px;
+    margin-left: 28%;
+    margin-top: 9%;
+   
+}
+
+.acce1{
+    width: 330px;
+    height: 420px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imgac1{
+    width: 255px;
+    height: 233px;
+    margin-top: 9%;
+    margin-left: 10%;
+    
+}
+.btnac1{
+    width: 230px;
+    height: 42px;
+    margin-top: 20%;
+    margin-left: 14%;
+    background-color: yellow;
+}
+
+.contenred{
+    display: flex;
+   
+}
+
+.red1{
+    width: 430px;
+    height: 355px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    margin-left: 11%;
+    border-style: solid;
+    border-color: white;
+    
+}
+.imged1{
+    width: 425px;
+    height: 265px;
+    margin-top: 0;
+    margin-left: 0;
+    
+}
+.btnred1{
+    width: 425px;
+    height: 88px;
+    margin-top: 0;
+    margin-left: 0;
+    font-size: 28px;
+    background-color: rgb(247,247,247);
+}
+
+.red2{
+    width: 430px;
+    height: 355px ;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1%;
+    /* margin-left: 11%; */
+    border-style: solid;
+    border-color: white;
+}
+.btnred1:hover{
+    opacity: 0.9;
+}
+.btnred2:hover{
+    opacity: 0.9;
+}
+.imged2{
+    width: 425px;
+    height: 265px;
+    margin-top: 0;
+    margin-left: 0;
+    
+}
+.btnred2{
+    width: 425px;
+    height: 88px;
+    margin-top: 0;
+    margin-left: 0;
+    font-size: 28px;
+    background-color: rgb(247,247,247);
+}
+
+.red3{
+    width: 430px;
+    height: 355px ;
+    background-color: rgb(0, 0, 0);
+    /* margin-right: auto;
+    margin-left: auto; */
+    border-style: solid;
+    border-color: white;
+    
+}
+.imged3{
+    width: 425px;
+    height: 265px;
+    margin-top: 0;
+    margin-left: 0;
+    
+}
+.btnred3{
+    width: 425px;
+    height: 88px;
+    margin-top: 0;
+    margin-left: 0;
+    font-size: 28px;
+    background-color: rgb(247,247,247);
+    
+
+}
+.btnred3:hover{
+    opacity: 0.9;
+}
+.contenedormapa{
+    width: 80%;
+    height: 380px;
+    margin-left: 5%;
+    /* background-color: grey; */
+}
+#textP{
+    font-size: 22px;
+    
+}
